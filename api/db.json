@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "world",
+      "id": 1
+    },
+    {
+      "title": "Installed lodash",
+      "description": "imported _ for deleting items",
+      "id": 2
+    },
+    {
+      "title": "I made this. Seriously?",
+      "description": "This was made by me. HAHAHA",
+      "id": 3
+    }
+  ]
+}
